@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Summer Camera",
+    "price": 59.99,
+    "imageUrl": "/images/camera.png"
+  },
+  {
+    "id": 2,
+    "name": "Headphone",
+    "price": 200,
+    "imageUrl": "/images/headPhone.png"
+  },
+  {
+    "id": 3,
+    "name": "Apple Phone",
+    "price": 2000,
+    "imageUrl": "/images/applePhone.png"
+  },
+  {
+    "id": 4,
+    "name": "Loudspeaker",
+    "price": 650,
+    "imageUrl": "/images/orange.png"
+  },
+  {
+    "id": 5,
+    "name": "Watch",
+    "price": 200,
+    "imageUrl": "/images/watch.png"
+  },
+  {
+    "id": 6,
+    "name": "Earphone orange black",
+    "price": 1500,
+    "imageUrl": "/images/earphone.png"
+  }
+]
